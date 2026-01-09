@@ -1,0 +1,26 @@
+"Hi, I’m Ajay. I have been working as a Data Engineer for the last 4 years.
+My expertise lies in GCP services like BigQuery, GCS, Cloud Composer/Airflow, and Dataproc.
+Apart from these, I have good knowledge of Cloud SQL."
+
+Our client, Purplle, is one of the leading beauty and personal care product companies in the retail domain. The company offers a wide range of beauty products, including skincare, makeup, haircare, and fragrances. With a rapidly growing customer base, Purplle aims to gain deeper insights into financial performance and customer purchasing behavior to enhance decision-making.
+
+
+Roles and Responsibilities (in detail):
+---------------------------------
+
+#. migration of data from Teradata to BigQuery, focusing on maintaining data accuracy and performance.
+
+#. I optimized queries in BigQuery by using techniques like partitioning, clustering, and query tuning to improve execution time and reduce costs.
+
+#. developed and automated ETL pipelines using GCP services like Cloud Storage, Cloud Functions, and Apache Airflow in Cloud Composer.
+
+#. The pipelines supported both incremental and batch data loads, ensuring that data is processed and available on time for analytics and reporting.
+
+#. converting MLD and BTEQ shell scripts from the legacy system into BigQuery-compatible SQL scripts, optimizing them for performance and scalability in the cloud environment.
+
+#. we creation json files and run the pipeline through Jenkins and trigger the dag and the Python scripts to automate data validations and transformations, which helped maintain data consistency and quality across different stages of the pipeline.
+
+#.  testing, identified and resolved issues, and ensured code quality before deployment.
+
+#.I collaborated closely with cross-functional teams, ensuring that our data pipelines were integrated properly with other systems and frameworks used by Verizon.
+

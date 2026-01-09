@@ -1,4 +1,2 @@
-vijay
-bhaskhar
-vinay
-naveen
+it is not proper file 
+this one is corrupted

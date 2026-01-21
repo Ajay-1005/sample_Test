@@ -1,2 +1,1 @@
-it is not proper file 
-this one is corrupted
+slect * from orders;
